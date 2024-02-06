@@ -27,3 +27,6 @@ testbin/*
 dist
 
 vendor
+
+# client-go 源码
+client-go-src
